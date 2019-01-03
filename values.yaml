@@ -24,6 +24,7 @@ traefikForwardAuth:
   cookieSecure: false
   domain:
   authHost:
+  whitelist: []
 
 ingress:
   enabled: false
